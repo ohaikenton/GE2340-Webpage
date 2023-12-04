@@ -23,14 +23,10 @@ The original song demo is below.
 ## Result
 <tabs>
     <tab title="Model A">
-
         <video src="AudimeeAI_goodexample.mp4"/>
-
     </tab>
     <tab title="Model B">
-
         <video src="AudimeeAI_badexample.mp4"/>
-
     </tab>
 </tabs>
 
