@@ -10,6 +10,46 @@ You can create empty topics, or choose a template for different types of content
 
 ![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
 
+## Results
+
+### Evaluating training effectiveness
+
+Audio 1:
+<tabs>
+    <tab title="Original">
+        <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
+    </tab>
+    <tab title="Step: 2400">
+        <web-file-name></web-file-name>
+    </tab>
+</tabs>
+
+## Training the model locally
+These steps assume you are on Windows and has an Nvidia GPU.
+
+<procedure title="Downloading source" id="download">
+    <step>
+        <p>The source of so-vits-svc used for this project can be downloaded at <a href="https://github.com/svc-develop-team/so-vits-svc/tree/4.1-Stable">GitHub (svc-develop-team/so-vits-svc)</a></p>
+        <img src="Screenshot_2023-12-04_193029.png" alt="GitHub" border-effect="line"/>
+    </step>
+    <step>
+        <p>Download and unzip the archive.</p>
+    </step>
+</procedure>
+
+<procedure title="Set up environment">
+    <step>
+        <p>A new Conda environment is recommended. Install Anaconda.</p>
+    </step>
+    <step>
+        <p>In the root directory of the archive, open a conda prompt and create a new environment</p>
+    </step>
+    <step>
+    <p>Run <code>conda activate [your environment name]</code></p>
+</step>
+<step><p>Run <code>pip install -r requirements-win.txt</code></p></step>
+</procedure>
+
 ## Write content
 %product% supports two types of markup: Markdown and XML.
 When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
