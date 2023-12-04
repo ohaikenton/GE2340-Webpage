@@ -10,4 +10,4 @@ However, the advent of AI has disrupted the traditional flow of music production
 
 ## AI Collab with real singer nowadays
 In a new era of performance and marketing, some singers have embraced collaboration with artificial intelligence (AI) as a means to engage a broader audience. An illustrative example of this phenomenon is the renowned Hong Kong singer, Jackson Wan Kwong, who collaborated with his AI model named "Wan K." in the creation and release of a joint song. This innovative partnership serves as a compelling demonstration of how artists are leveraging AI technology to enhance their artistic endeavors and attract a larger fan base.
-[![IMAGE ALT TEXT HERE](YouTube.jpg)](https://youtu.be/hDSft4Ah1Qw?si=JrjXGB_-9enUTq1b&t=169)
+[![Wan.K](YouTube.jpg)](https://youtu.be/hDSft4Ah1Qw?si=JrjXGB_-9enUTq1b&t=169)
