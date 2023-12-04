@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       id="Reference" title="Reference">
+
+    <title>
+        Reference
+    </title>
+    <p>Astley, R., &amp; Morris, L. (2020). At-scale impact of the Net Wok: A culinarically holistic investigation of
+        distributed dumplings. Armenian Journal of Proceedings, 61, 192–219.</p>
+    <p>Benjamin van Niekerk, Carbonneau, M., Zaïdi, J., Baas, M., Seuté, H., &amp; Kamper, H. (2022). A comparison of
+        discrete and soft speech units for improved voice conversion. ICASSP 2022 - 2022 IEEE International Conference
+        on Acoustics, Speech and Signal Processing (ICASSP). <a href="https://doi.org/10.1109/icassp43922.2022.9746484">https://doi.org/10.1109/icassp43922.2022.9746484</a></p>
+    <p>Chamorro-Premuzic, T. (2022, September). Can music make you more productive?
+        <a href="https://hbr.org/2022/09/can-music-make-you-more-productive">https://hbr.org/2022/09/can-music-make-you-more-productive</a></p>
+    <p>Chen, Z., Rosenberg, A., Zhang, Y., Wang, G., Ramabhadran, B., &amp; Moreno, P. J. (2020). Improving speech
+        recognition using GAN-Based speech synthesis and contrastive unspoken text selection. Interspeech 2020.
+        <a href="https://doi.org/10.21437/interspeech.2020-1475">https://doi.org/10.21437/interspeech.2020-1475</a></p>
+    <p>Fotis Efthymiou, Hildebrand, C., Emanuel de Bellis, &amp; William Heyward Hampton. (2023). The power of
+        AI-Generated voices: How digital vocal tract length shapes product congruency and ad performance. Journal of
+        Interactive Marketing. <a href="https://doi.org/10.1177/10949968231194905">https://doi.org/10.1177/10949968231194905</a></p>
+    <p>Gilani, K. (2023, July). How to use jukebox AI for music generation (2023 guide).
+        <a href="https://ambcrypto.com/blog/how-to-use-jukebox-ai-for-music-generation-2023-guide/">https://ambcrypto.com/blog/how-to-use-jukebox-ai-for-music-generation-2023-guide/</a></p>
+    <p>Kim, J., Kong, J., &amp; Son, J. (2021, June). Conditional variational autoencoder with adversarial learning for
+        end-to-end text-to-speech. ArXiv:2106.06103 [Cs, Eess]. <a href="https://arxiv.org/abs/2106.06103">https://arxiv.org/abs/2106.06103</a></p>
+    <p>MHA. (2023, June). AI vocals will change EVERYTHING for producers.. Www.youtube.com.
+        <a href="https://www.youtube.com/watch?v=q2daW18umPs">https://www.youtube.com/watch?v=q2daW18umPs</a></p>
+    <p>MusiCOG &amp; ManuScore – metacreation lab. (n.d.). <a href="https://metacreation.net/musicogmanuscore/">https://metacreation.net/musicogmanuscore/</a></p>
+    <p>Openai. (n.d.). GitHub - openai/jukebox: Code for the paper “Jukebox: A Generative Model for Music.”
+        <a href="https://github.com/openai/jukebox">https://github.com/openai/jukebox</a></p>
+    <p>svc-develop-team. (2023, December). SoftVC VITS singing voice conversion. GitHub.
+        <a href="https://github.com/svc-develop-team/so-vits-svc/tree/4.1-Stable">https://github.com/svc-develop-team/so-vits-svc/tree/4.1-Stable</a></p>
+    <p>Young, R. W. (1939). Terminology for logarithmic frequency units. The Journal of the Acoustical Society of
+        America, 11, 134–139. <a href="https://doi.org/10.1121/1.1916017">https://doi.org/10.1121/1.1916017</a></p>
+    <p>Zhang, N., Yan, J., &amp; Jean-Pierre Briot. (2023). Artificial intelligence techniques for pop music creation: A
+        real music production perspective. Artificial Intelligence Techniques for Pop Music Creation: A Real Music
+        Production Perspective. <a href="https://doi.org/10.2139/ssrn.4490102">https://doi.org/10.2139/ssrn.4490102</a></p>
+
+</topic>

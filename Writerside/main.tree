@@ -10,5 +10,5 @@
     <toc-element topic="AI-Music-Composition.md"/>
     <toc-element topic="AI-Vocal-Generation.md"/>
     <toc-element topic="Singing-Voice-Conversion.md"/>
-    <toc-element topic="Reference.md"/>
+    <toc-element topic="Reference.topic"/>
 </instance-profile>
