@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="main"
-                 name="GE2340 - Course Project - 2023/2024 Semester A - Li Chun Kit Kenton, Chen Kui Sum Gary, LAI Wing Lok"
+                 name="GE2340 - Course Project - 2023/2024 Semester A - Chen Kui Sum Gary, LAI Wing Lok, Li Chun Kit Kenton,"
                  start-page="Introduction.md">
 
     <toc-element topic="Introduction.md"/>
