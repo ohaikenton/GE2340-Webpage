@@ -5,75 +5,50 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
 "Starter" template.-->
 
-## Add new topics
-You can create empty topics, or choose a template for different types of content that contains some boilerplate structure to help you get started:
+## Background information
+### Software
+The chosen software is Audimee AI Vocals.
+<img src="Audimee.png" alt="Audimee" border-effect="line"/>
 
-![Create new topic options](new_topic_options.png){ border-effect="line" thumbnail="true" width="321"}
+### Testing Demo
+We would select two AI models to transfer a Mandarin studio demo song to test whether they can generate a high-quality song.
+The original song demo is below.
+<video src="original_demo.mp4"/>
 
-## Write content
-%product% supports two types of markup: Markdown and XML.
-When you create a new help article, you can choose between two topic types, but this doesn't mean you have to stick to a single format.
-You can author content in Markdown and extend it with semantic attributes or inject entire XML elements.
+### Lyrics
+有些話想對你說 一直藏在我心中
+噗通心跳的那一天 我對你的想念
+如果世界會改變 時間會回到原點
+決定做好我自己 重新的遇見你
 
-For example, this is how you inject a procedure:
+晚上好 你的今天 現在 有什麼冒險
+能不能 給我一分鐘 看著天空 你慢慢的放鬆
 
-<procedure title="Inject a procedure" id="inject-a-procedure">
-    <step>
-        <p>Start typing <code>procedure</code> and select a procedure type from the completion suggestions:</p>
-        <img src="completion_procedure.png" alt="completion suggestions for procedure" border-effect="line"/>
-    </step>
-    <step>
-        <p>Press <shortcut>Tab</shortcut> or <shortcut>Enter</shortcut> to insert the markup.</p>
-    </step>
-</procedure>
+就發生在那一分鐘
+你的笑容 一份衝動
+點亮了我的星空 想對你說
+就算你的以後 睡在他的雙肩
+我依然在你的身邊 就算你看不見
+為愛你存在 永不會改變
 
-## Add interactive elements
-
-### Tabs
-To add switchable content, use tabs (start typing `tabs` on a new line).
-
+## Result
 <tabs>
-    <tab title="Markdown">
-        <code-block lang="plain text">![Alt Text](new_topic_options.png){ width=450 }</code-block>
+    <tab title="Model A">
+        <video src="AudimeeAI_goodexample.mp4"/>
     </tab>
-    <tab title="Semantic markup">
-        <code-block lang="xml">
-            <![CDATA[<img src="new_topic_options.png" alt="Alt text" width="450px"/>]]></code-block>
+    <tab title="Model B">
+        <video src="AudimeeAI_badexample.mp4"/>
     </tab>
 </tabs>
 
-### Collapsible blocks
-Besides injecting entire XML elements, you can use attributes to configure the behavior of certain elements.
-For example, you can collapse a chapter that contains non-essential information like this:
+### Discussion: 
+Model A is specialized in genres such as Singer, Indie, and Pop, whereas Model B is tailored for Singer, EDM, and House styles. 
+When subjected to identical audio inputs and pitch settings, a comparative analysis reveals that Model A outperforms Model B. 
+Model A exhibits a decreased presence of electronic voice characteristics and anomalous sounds, while Model B's generated soundtracks are characterized by a higher level of noise. 
+It is important to note that both Model A and Model B are not well-versed in Mandarin, leading to difficulties in accurately pronouncing the lyrics. 
+The dissimilarities in the stylistic attributes of these AI models significantly contribute to the observed variations in performance outcomes.
 
-#### Supplementary info {collapsible="true"}
-Content under such header will be collapsed by default, but you can modify the behavior by adding the following attribute:
-`default-state="expanded"`
-
-## Convert selection to XML
-If you need to extend an element with more functions, you can convert selected content from Markdown to semantic markup.
-For example, if you want to merge cells in a table, it's much easier to convert it to XML than do this in Markdown.
-Position the caret anywhere in the table and press <shortcut>Alt+Enter</shortcut>:
-
-<img src="convert_table_to_xml.png" alt="Convert table to XML" width="706" border-effect="line"/>
-
-## Feedback and support
-Please report any issues, usability improvements, or feature requests to our 
-<a href="https://youtrack.jetbrains.com/newIssue?project=WRS">YouTrack project</a>
-(you will need to register).
-
-You are welcome to join our
-<a href="https://jb.gg/WRS_Slack">public Slack workspace</a>.
-Before you do, please read our [Code of conduct](https://plugins.jetbrains.com/plugin/20158-writerside/docs/writerside-code-of-conduct.html).
-We assume that you’ve read and acknowledged it before joining.
-
-You can also always email us at [writerside@jetbrains.com](mailto:writerside@jetbrains.com).
-
-<seealso>
-    <category ref="wrs">
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/markup-reference.html">Markup reference</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/manage-table-of-contents.html">Reorder topics in the TOC</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/local-build.html">Build and publish</a>
-        <a href="https://plugins.jetbrains.com/plugin/20158-writerside/docs/configure-search.html">Configure Search</a>
-    </category>
-</seealso>
+### Findings:
+To ensure the development of a proficient AI vocal generation model, several crucial factors need to be carefully considered. 
+These factors encompass the quality of the input audio, the selection of specific AI artist models, the implementation of pitch shifting techniques, the intention of generating instrumental or non-instrumental sound, and the language utilized by the model. 
+Attending to these factors collectively contributes to the attainment of a well-performed AI vocal generation model.
